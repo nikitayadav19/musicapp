@@ -2,7 +2,7 @@
 
 A sleek and responsive music application that lets users search and explore music tracks with a premium black and yellow theme. Built for performance and styled for elegance.
 
-![Music App Preview](screenshot.png) <!-- Replace with actual image path if available -->
+![Music App Preview](screenshot.png) 
 
 ## 🌟 Features
 
@@ -28,10 +28,8 @@ A sleek and responsive music application that lets users search and explore musi
 Navigate into the project directory:
 
    ```bash
-      Copy
-     Edit
-cd musicapp
-Open index.html in your browser.
+   cd musicapp
+3. Open index.html in your browser.
 
 No build tools or frameworks required — it's a pure frontend project!
 
@@ -48,19 +46,16 @@ Font: Sans-serif modern fonts for clean readability
 📂 Project Structure
 
     ```bash
-            Copy
-             Edit
+     musicapp/
+     │
+     ├── index.html
+     ├── style.css
+     ├── script.js (optional)
+     └── assets/
+         └── images/
 
 
-
-
-musicapp/
-│
-├── index.html
-├── style.css
-├── script.js (optional)
-└── assets/
-    └── images/
+    
 🧪 Future Enhancements
 Music playback support
 
@@ -72,18 +67,9 @@ Live search with real-time APIs
 
 🙋‍♀️ Author
 Nikita Yadav
-🔗 GitHub
+🔗 GitHub 
 
 📄 License
 This project is open-source and available under the MIT License.
-
-yaml
-Copy
-Edit
-
----
-
-Let me know if you also want badges (e.g., GitHub stars, live demo, license), or want it tailored for a React or API-connected version!
-
 
 
